@@ -1,2 +1,2 @@
 # Shreksite
-Site created in order to train HTML/CSS/JS
+Responsive site created in order to train HTML/CSS/JS
